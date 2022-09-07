@@ -1,2 +1,5 @@
 .idea
 imaptool.exe
+go-fly.exe
+gofly.sock
+logs/
